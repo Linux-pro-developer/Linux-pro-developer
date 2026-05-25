@@ -1,16 +1,11 @@
-## Hi there 👋
+Hi there 👋
+Welcome to my GitHub profile!
+I'm passionate about coding, building cool projects, and constantly learning new technologies.
 
-<!--
-**Linux-pro-developer/Linux-pro-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on small coding projects and web applications
+🌱 I’m currently learning PHP, Javaskript, HTML, CSS, and improving my backend skills
+💻 I enjoy creating websites and experimenting with Linux
+🐧 Daily driving Linux and customizing everything I can
+🎯 My goal is to become a full-stack developer
+⚡ Fun fact: I probably spend more time in the terminal than in my browser
+😄 Pronouns: he/him
