@@ -4,7 +4,7 @@
 
 I'm passionate about coding, building cool projects, and constantly learning new technologies.
 
----
+<br>
 
 ## 💫 About Me
 
@@ -42,15 +42,15 @@ I probably spend more time in the terminal than in my browser
 ### 😄 Pronouns
 he / him
 
----
+<br>
 
 ## 🛠️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,js,html,css,linux,git,vscode" />
+<img src="https://skillicons.dev/icons?i=php,js,html,css,linux,git,phpstorm" />
 </p>
 
----
+<br>
 
 ## 📈 GitHub Journey
 
@@ -60,7 +60,7 @@ he / him
 - 🐧 Linux enthusiast  
 - ☕ Powered by coffee  
 
----
+<br>
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile!
