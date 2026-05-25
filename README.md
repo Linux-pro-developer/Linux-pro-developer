@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm YOUR_NAME
+# 👋 Hi there
 
 ### 🚀 Welcome to my GitHub profile!
 
@@ -60,12 +60,4 @@ he / him
 - 🐧 Linux enthusiast  
 - ☕ Powered by coffee  
 
-<br>
 
-<h3 align="center">
-⭐ Thanks for visiting my profile!
-</h3>
-
-<p align="center">
-Code • Learn • Build • Repeat
-</p>
