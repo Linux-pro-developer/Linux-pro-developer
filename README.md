@@ -35,7 +35,7 @@ Becoming a full-stack developer
 <br>
 
 ### ⚡ Fun Fact
-I probably spend more time in the terminal than in my browser
+I vibe coded this
 
 <br>
 
